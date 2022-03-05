@@ -1,0 +1,13 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ D21A-AD23
+
+ Pasta de C:\xampp\htdocs\php7
+
+05/03/2022  09:33    <DIR>          .
+04/03/2022  19:30    <DIR>          ..
+05/03/2022  09:33                 0 a.txt
+05/03/2022  09:18               116 Curso.txt
+04/03/2022  20:20               117 index.php
+04/03/2022  20:45               610 teste1.html
+               4 arquivo(s)            843 bytes
+               2 pasta(s)   111.834.644.480 bytes dispon¡veis
