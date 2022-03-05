@@ -9,5 +9,3 @@
 05/03/2022  09:18               116 Curso.txt
 04/03/2022  20:20               117 index.php
 04/03/2022  20:45               610 teste1.html
-               4 arquivo(s)            843 bytes
-               2 pasta(s)   111.834.644.480 bytes dispon¡veis
