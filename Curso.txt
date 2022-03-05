@@ -1,0 +1,8 @@
+Criando um repositório.
+
+Criar um diretório com controle de versão
+Git init
+Gera a Pasta .git
+
+git add 
+
